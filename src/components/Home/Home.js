@@ -20,7 +20,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Sunil Yadav</strong>
+                <strong className="main-name"> K Nishaya Maria Raj</strong>
               </h1>
 
               <p className="heading-description blockquote">
@@ -36,13 +36,13 @@ function Home() {
             </Col>
 
             <Col md={5}>
-              <img src={myImg} className="profile-pic" alt="avatar" />
+              {/* <img src={myImg} className="profile-pic" alt="avatar" /> */}
             </Col>
           </Row>
         </Container>
       </Container>
       <Container fluid className="home-about-section" id="about">
-        <Container>
+        {/* <Container>
           <Row>
             <Col md={12} className="home-about-social">
               <h1>Get in Touch</h1>
@@ -56,7 +56,8 @@ function Home() {
               <SocialMedia />
             </Col>
           </Row>
-        </Container>
+        </Container> */}
+        WIP
       </Container>
     </section>
   );
