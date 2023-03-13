@@ -8,7 +8,7 @@
 
 ## Built With
 
-My personal portfolio   <a href="https://sunilyadavportfolio.netlify.app/" target="_blank">https://sunilyadavportfolio.netlify.app/</a> and my personal blog  <a href="http://www.logicstime.com/" target="_blank">http://www.logicstime.com/</a> <br/>
+<!-- My personal portfolio   <a href="https://sunilyadavportfolio.netlify.app/" target="_blank">https://sunilyadavportfolio.netlify.app/</a> and my personal blog  <a href="http://www.logicstime.com/" target="_blank">http://www.logicstime.com/</a> <br/> -->
 
 This project was built using these technologies.
 
